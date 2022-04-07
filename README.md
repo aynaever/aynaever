@@ -11,7 +11,7 @@ Skills: C / HTML / CSS / Docker
 - ⚡ Fun fact: I'm using Arch BTW 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynaever&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynaever&count_private=true&theme=gruvbox)](https://github.com/aynaever/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aynaever&repo=github-readme-stats)](https://github.com/aynaever/inception)
 
