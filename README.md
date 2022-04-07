@@ -20,7 +20,3 @@ Skills: C / HTML / CSS / Docker
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aynaever)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aynaever)  
-
-![Profile views](https://gpvc.arturio.dev/aynaever)  
-
-
