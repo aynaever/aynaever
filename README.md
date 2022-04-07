@@ -20,3 +20,5 @@ Skills: C / HTML / CSS / Docker
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aynaever)  
 
 ![Profile views](https://gpvc.arturio.dev/aynaever)  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynaever)](https://github.com/anuraghazra/github-readme-stats)
