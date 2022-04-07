@@ -13,8 +13,6 @@ Skills: C / HTML / CSS / Docker
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynaever)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aynaever&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aynaever)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aynaever)  
