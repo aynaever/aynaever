@@ -4,8 +4,8 @@ I'm Aymane, currently I'm studying software engineering. I'm a Linux and Blockch
 
 Skills: C / HTML / CSS / Docker / Shell
 
-- 🔭 I’m currently working on Push Swap 
-- 🌱 I’m currently learning Sorting Algorithms 
+- 🔭 I’m currently working on Net Practice
+- 🌱 I’m currently learning computer networks
 - 💬 Ask me about C / Linux / HTML / CSS / Shell
 - 😄 Pronouns: He 
 - ⚡ Fun fact: I'm using Arch BTW 
