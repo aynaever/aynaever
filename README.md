@@ -11,8 +11,6 @@ Skills: C / HTML / CSS / Docker
 - ⚡ Fun fact: I'm using Arch BTW 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aynaever)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynaever)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aynaever&show_icons=true)  
