@@ -15,7 +15,7 @@ Skills: C / HTML / CSS / Docker
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aynaever&repo=inception)](https://github.com/aynaever/inception)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynaever)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynaever)](https://github.com/aynaever/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aynaever)  
 
