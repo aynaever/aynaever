@@ -13,6 +13,6 @@ Skills: C / HTML / CSS / Docker / Shell
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynaever&count_private=true&theme=gruvbox)](https://github.com/aynaever/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynaever)](https://github.com/aynaever/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynaever&theme=gruvbox)](https://github.com/aynaever/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aynaever)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aynaever&theme=gruvbox)  
