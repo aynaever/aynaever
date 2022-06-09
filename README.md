@@ -2,10 +2,10 @@
 #### I am a Software Engineer Student
 I'm Aymane, currently I'm studying software engineering. I'm a Linux and Blockchain enthusiast.
 
-Skills: C / HTML / CSS / Docker / Shell
+Skills: C/C++ / HTML / CSS / JS / React / Next.js / Solidity
 
-- 🔭 I’m currently working on Net Practice
-- 🌱 I’m currently learning computer networks
+- 🔭 I’m currently working on a Decentralized application
+- 🌱 I’m currently learning Blockchain/web3 developlment
 - 💬 Ask me about C / Linux / HTML / CSS / Shell
 - 😄 Pronouns: He 
 - ⚡ Fun fact: I'm using Arch BTW 
